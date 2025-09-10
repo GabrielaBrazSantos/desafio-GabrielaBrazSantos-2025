@@ -62,7 +62,7 @@ Saída
 Há cenários de testes no arquivo `abrigo-animais.test.js` para auxiliar na validação da  solução. 
 
 ### CONCLUSÃO
-Foi criado o arquivo main.js para auxiliar na validação e testar a solução, além dos cenários de testes propostos no arquivo de teste.
+Foi criado o arquivo Main.js para auxiliar na validação e testar a solução, além dos cenários de testes propostos no arquivo de teste.
 
 ### Tecnologias utilizadas
 Node.js e Jest
